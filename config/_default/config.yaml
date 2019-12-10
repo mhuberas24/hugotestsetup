@@ -1,0 +1,16 @@
+baseURL: https://www.ab24.de
+theme: 
+  - my-hugo-base
+defaultContentLanguage: de
+defaultContentLanguageInSubdir: false
+disableHugoGeneratorInject: true
+disableKinds: ["taxonomy","taxonomyTerm","rss"]
+
+Languages:
+  de:
+    baseurl: https://www.ab24.de/f1/
+    langtag: de-DE
+  at:
+    baseURL: https://www.ab24.at/f2/
+    langtag: de-AT
+
