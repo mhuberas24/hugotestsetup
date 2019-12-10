@@ -1,0 +1,9 @@
+public
+*.iml
+node_modules
+config.local.yaml
+.DS_Store
+thumbs.db
+.idea
+images-list.txt
+images
